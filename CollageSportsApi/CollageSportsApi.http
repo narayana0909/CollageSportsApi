@@ -1,0 +1,6 @@
+@CollageSportsApi_HostAddress = http://localhost:5015
+
+GET {{CollageSportsApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
